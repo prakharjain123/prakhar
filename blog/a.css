@@ -8,15 +8,16 @@ h3{
 }
 h2{
    color:lightgreen;
-   text-align: center;
-}
+   text-align: "center";
+
+font-family: "Times New Roman", Times, serif;}
 h1{
    color: red;
-   text-align: center;
+   text-align: "center";
 }
-p{
-background-color: #00ff00;   
-   text-align: center;
+p{ 
+   font-family: "verdana";
+   text-align: "center";
 }
 </style>
   
