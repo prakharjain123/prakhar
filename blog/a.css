@@ -1,10 +1,19 @@
 <style>
-body{}
+body{
+background-color: lightblue;;
+}
 h3{
-color: lightblue;
+
+
+color:blue;
+}
+h2{
+color:lightgreen;
+text-align: center;
 }
 p{
-   color: red;
+   
+text-align: center;
 }
 </style>
   
