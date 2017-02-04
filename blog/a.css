@@ -1,7 +1,7 @@
 <style>
 body{
     background-color: blue;
-    text-align: centre;   
+    text-align: right;   
 
 }
 h3{
@@ -11,16 +11,16 @@ h3{
 }
 h2{
    color:lightgreen;
-   text-align: centre;
+   text-align: right;
 
 font-family: "Times New Roman", Times, serif;}
 h1{
    color: red;
-   text-align: centre;
+   text-align: right;
 }
 p{ 
    font-family: verdana;
-   text-align: centre;
+   text-align: right;
 }
 </style>
   
