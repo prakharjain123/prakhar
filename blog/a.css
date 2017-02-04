@@ -1,5 +1,8 @@
 <style>
 body{
+    background-color: blue;
+    text-align: center;   
+
 }
 h3{
 
@@ -8,16 +11,16 @@ h3{
 }
 h2{
    color:lightgreen;
-   text-align: "center";
+   text-align: center;
 
 font-family: "Times New Roman", Times, serif;}
 h1{
    color: red;
-   text-align: "center";
+   text-align: center;
 }
 p{ 
-   font-family: "verdana";
-   text-align: "center";
+   font-family: verdana;
+   text-align: center;
 }
 </style>
   
