@@ -1,6 +1,5 @@
 <style>
 body{
-   background-color: lightblue;
 }
 h3{
 
@@ -12,6 +11,7 @@ h2{
    text-align: center;
 }
 h1{
+   color:red;
    text-align: center;
 }
 p{
