@@ -1,19 +1,22 @@
 <style>
 body{
-background-color: lightblue;;
+   background-color: lightblue;
 }
 h3{
 
 
-color:blue;
+   color:blue;
 }
 h2{
-color:lightgreen;
-text-align: center;
+   color:lightgreen;
+   text-align: center;
+}
+h1{
+   text-align: center;
 }
 p{
    
-text-align: center;
+   text-align: center;
 }
 </style>
   
